@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-04-14T04:44:02.771935",
+  "file": "payments-runbook.md",
+  "score": 80,
+  "passed": 8,
+  "total": 10,
+  "results": [
+    {
+      "name": "File exists",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Minimum length",
+      "passed": true,
+      "detail": "1484 chars"
+    },
+    {
+      "name": "Contains 'service overview' section",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Contains 'on-call' section",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Contains 'alert' section",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Contains 'rollback' section",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Contains 'compliance' section",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Contains 'escalation' section",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Has revision history table",
+      "passed": false,
+      "detail": "No markdown table found \u2014 revision history required"
+    },
+    {
+      "name": "Has code blocks or commands",
+      "passed": false,
+      "detail": "No command examples found"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-04-14T04:44:02.771369",
+  "date": "2026-04-14",
+  "total_sections": 9,
+  "sections": [
+    "Service overview",
+    "On-call contacts",
+    "Architecture summary",
+    "Common alerts and responses",
+    "Step-by-step remediation procedures",
+    "Escalation paths",
+    "Rollback procedures",
+    "Compliance notes",
+    "Revision history"
+  ],
+  "required_by_industry": {
+    "fintech": [
+      "service overview",
+      "on-call",
+      "alert",
+      "rollback",
+      "compliance",
+      "escalation"
+    ],
+    "manufacturing": [
+      "service overview",
+      "on-call",
+      "alert",
+      "rollback",
+      "compliance",
+      "escalation"
+    ],
+    "regulated": [
+      "service overview",
+      "alert",
+      "rollback",
+      "compliance"
+    ]
+  }
+}
